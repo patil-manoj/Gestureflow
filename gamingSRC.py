@@ -23,6 +23,6 @@ while True:
     else :
         keyboard.release(Key.left)
         keyboard.release(Key.right)
-    cv2.imshow("problem solving with Balaji" , img)
+    cv2.imshow("Hello by manu" , img)
     if cv2.waitKey(1) == ord("q"):
         break
