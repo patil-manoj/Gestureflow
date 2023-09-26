@@ -1,4 +1,4 @@
-This file folder contains source code and execution video of the project.
+This file folder contains source code.
 
 # REQUIRED PYTHON MODULES
 
